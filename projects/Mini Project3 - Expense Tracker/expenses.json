@@ -1,0 +1,27 @@
+[
+    {
+        "item": "T-shirt",
+        "amount": 200,
+        "category": "Clothing"
+    },
+    {
+        "item": "Bus",
+        "amount": 50,
+        "category": "Travel"
+    },
+    {
+        "item": "Pizza",
+        "amount": 250,
+        "category": "Food"
+    },
+    {
+        "item": "Shirt ",
+        "amount": 300,
+        "category": "cloth"
+    },
+    {
+        "item": "cloth",
+        "amount": 400,
+        "category": "cloth"
+    }
+]
